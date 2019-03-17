@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 5P35021
+D Programmable Clock Generator, QFN-24
+K PLL Clock Generator
+F https://www.idt.com/document/dst/5p35021-datasheet
+$ENDCMP
+#
 $CMP ADF4002BCPZ
 D 400MHz Bandwidth Frequency Synthesizer, LFCSP-20
 K Analog Devices PFD
